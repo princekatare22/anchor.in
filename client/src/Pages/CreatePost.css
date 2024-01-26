@@ -1,0 +1,53 @@
+* {
+  background-color: black;
+  color: white;
+  padding: 0;
+  margin: 0;
+}
+
+.inner-box {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.rightPanel {
+  height: 450px;
+  width: 400px;
+  padding: 50px;
+  background-color: #0d0d0d;
+  border-radius: 4px;
+}
+
+.rightPanel h3 {
+  margin-top: -20px;
+  margin-bottom: 10px;
+  background-color: transparent;
+  margin-left: -14px;
+}
+
+.rightPanel input {
+  background-color: #ffffff0d;
+  padding-left: 20px;
+  margin-top: 10px;
+  width: 380px;
+  height: 40px;
+  font-size: 18px;
+  border: 2px solid #ffffff80;
+  border-radius: 4px;
+}
+
+.rightPanel .post {
+  height: 120px;
+}
+
+.rightPanel button {
+  background-color: #ffffff0d;
+  font-size: 18px;
+  border: 2px solid #ffffff80;
+  border-radius: 4px;
+  margin-top: 50px;
+  width: 200px;
+  height: 40px;
+  margin-left: 100px;
+}

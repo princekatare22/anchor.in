@@ -1,0 +1,65 @@
+* {
+  background-color: black;
+  color: white;
+  padding: 0;
+  margin: 0;
+}
+
+.inner-box {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.rightPanel {
+  height: 450px;
+  width: 400px;
+  padding: 50px;
+  background-color: #0d0d0d;
+  border-radius: 4px;
+}
+
+.rightPanel h3 {
+  font-size: 20px;
+  background-color: transparent;
+  margin-top: -20px;
+  margin-left: -20px;
+  margin-bottom: 30px;
+}
+
+.rightPanel .post-display {
+  background-color: transparent;
+}
+
+.rightPanel .commet-section {
+  display: flex;
+}
+
+.post-section h2 {
+  background-color: transparent;
+}
+
+.post-section {
+  background-color: #ffffff0d;
+  width: 400px;
+  height: 50px;
+}
+
+.rightPanel .comment {
+  width: 400px;
+  background-color: transparent;
+  margin-top: 10px;
+  margin-right: 8px;
+  color: #ffffff0d;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.rightPanel h4 {
+  margin-right: 8px;
+  background: #ffffff0d;
+  color: #ffffff80;
+  font-size: 15px;
+  margin-bottom: 5px;
+  font-weight: 500;
+}

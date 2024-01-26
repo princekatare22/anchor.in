@@ -1,0 +1,36 @@
+* {
+  margin-left: 2px;
+  margin-top: 2px;
+}
+
+.navbar {
+  margin-left: 5px;
+  margin-top: 5px;
+  display: flex;
+}
+
+.vertical {
+  margin-bottom: -10px;
+}
+
+.horizontal {
+  display: inline-block;
+  background-color: white;
+  width: 8px;
+  height: 8px;
+  margin-left: 2px;
+}
+
+.title {
+  margin-top: 10px;
+  margin-left: 25px;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.welcome-text {
+  margin-top: 15px;
+  margin-left: 1100px;
+  font-weight: 600;
+  font-size: 16px;
+}
